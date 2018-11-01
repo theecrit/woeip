@@ -1,5 +1,5 @@
 ## Checklist
- - [ ] Searched for, and did not find, a duplicate [issue](/issues)
+ - [ ] Searched for, and did not find, a duplicate [issue](issues)
  - [ ] Focused on one specific problem
  - [ ] Gave a concise and relevant name
  - [ ] Wrote a clear description
