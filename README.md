@@ -16,5 +16,5 @@ Brief description of how the tool is intended to be used
 ## Contributing
 
 * Distinguish between contributing to the code or to the real-world application
-* Those wishing to contribute to the code will link to the [contributing.md](/blob/gh-pages/.github/contributing.md)
+* Those wishing to contribute to the code will link to the [contributing.md](https://github.com/openoakland/woeip/blob/master/.gitignore/contributing.md)
 * Those wishing to contribute to the real-world application will link to whereever the team sees best.
