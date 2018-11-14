@@ -8,7 +8,7 @@ West Oakland Environmental Indicators Project ([WOEIP](http://www.woeip.org/)) i
 
 
 ## Overview
-WOAQ is developing a user-friendly database that allows WOEIP to manage the local air quality data they've been collecting for years, visualize that data in meaningful ways, and use this to empower local residents to drive change in their community.
+WOAQ is developing a user-friendly database that allows WOEIP to manage the local air quality (AQ) data they've been collecting for years, visualize that data in meaningful ways, and use this to empower local residents to drive change in their community.
 
 ### Process
 * Understand the practical problems we're trying to solve through primary, secondary, and user research (current user group: staff and volunteers of WOEIP; in the future: possibly local residents, environmental advocates, and academic researchers).
@@ -22,6 +22,12 @@ WOAQ is developing a user-friendly database that allows WOEIP to manage the loca
 We're currently trying to consolidate the following code into this single repo for the sake of efficiency.
 * Data upload tool (a flask app hosted on Heroku) [repo](https://github.com/Ethan-bradley/WoaqUploadAppCode) and [user interface](https://whispering-refuge-49854.herokuapp.com/)
 * Data Visualization tool: [repo](https://github.com/openoakland/woaq/) and [user interface](https://openoakland.github.io/woaq/).
+
+## About the data
+*Initial data set:*
+* WOEIP collects air quality data with a DusTrak II mobile sensor and a coordinated GPS device. These produce two files per collection session, which need to be associated with each other. The DusTrak produces a CSV file, and the GPS device produces a log file.
+* For current state of this data, see the [associated Trello card](https://trello.com/c/l1NxFPFT).
+* Some of the CSV and log files have been compiled into the data visualization tool referenced above under "Tech structure." Additional third-party (non-WOEIP) data sets have been compiled into that tool, as well. All of the compiled data needs to be re-evaluated, as we don't have a clear understanding of how it was originally processed (it's possible details are in the source repo linked under "Tech structure" above).
 
 ## Contributing
 * We currently use the [WOAQ Trello board](https://trello.com/invite/b/EBnxZHmx/6e43b909891f622463a67da64dbb8101/west-oakland-air-quality) for general project management. See the [Instructions](https://trello.com/c/msbASe3F) in Trello for how to get started on tasks listed there.
