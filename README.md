@@ -8,7 +8,7 @@ West Oakland Environmental Indicators Project ([WOEIP](http://www.woeip.org/)) i
 
 
 # Overview
-WOAQ is developing a user-friendly database that allows WOEIP to manage the local air quality (AQ) data they've been collecting for years, visualize that data in meaningful ways, and use this to empower local residents to drive change in their community.
+WOEIP has collected Air Quality (AQ) data over several years. The current AQ database is difficult to manage. A team within OpenOakland has partnered with WOEIP in order to build a replacement. The project, known as WOAQ, will allow WOEIP to intuitively store, process, and visualize their data. Ultimately, this will empower local residents to drive change in their community.
 
 ## Process
 * Understand the practical problems we're trying to solve through primary, secondary, and user research (current user group: staff and volunteers of WOEIP; in the future: possibly local residents, environmental advocates, and academic researchers).
