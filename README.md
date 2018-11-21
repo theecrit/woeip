@@ -33,7 +33,7 @@ We're currently trying to consolidate the following code into this single repo f
 * We currently use the [WOAQ Trello board](https://trello.com/invite/b/EBnxZHmx/6e43b909891f622463a67da64dbb8101/west-oakland-air-quality) for general project management. See the [Instructions](https://trello.com/c/msbASe3F) in Trello for how to get started on tasks listed there.
 
 
-### Still TBD:
+### Under construction:
 * Distinguish between contributing to the code or to the real-world application
 * Those wishing to contribute to the code will link to the [contributing.md](https://github.com/openoakland/woeip/blob/master/.gitignore/contributing.md)
 * Those wishing to contribute to the real-world application will link to whereever the team sees best.
